@@ -7,7 +7,7 @@ use Carbon\Carbon;
 
 class Article extends Model
 {
-    //
+    // this is a branch name 1st
     protected $fillable = [
         'title',
         'introduction',
